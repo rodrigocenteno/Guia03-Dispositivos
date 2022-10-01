@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/RobertoFlores/Desktop/Guia03/app/src/main/res/layout/activity_datos.xml" value="0.264" />
+        <entry key="..\:/Users/RobertoFlores/Desktop/Guia03/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/RobertoFlores/Desktop/Guia03/app/src/main/res/layout/activity_mostrar_lista.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/RobertoFlores/Desktop/Guia03/app/src/main/res/layout/activity_seleccionar_trabajador.xml" value="0.2" />
+        <entry key="..\:/Users/RobertoFlores/Desktop/Guia03/app/src/main/res/layout/activity_trabajador_hora.xml" value="0.1" />
+        <entry key="..\:/Users/RobertoFlores/Desktop/Guia03/app/src/main/res/layout/activity_trabajador_tiempo_completo.xml" value="0.1" />
+        <entry key="..\:/Users/Rodrigo Centeno/AndroidStudioProjects/Guia03/CF19I04002 Rodrigo Centeno Guia03/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Rodrigo Centeno/AndroidStudioProjects/Guia03/CF19I04002 Rodrigo Centeno Guia03/app/src/main/res/layout/activity_mostrar_lista.xml" value="0.25" />
+        <entry key="..\:/Users/Rodrigo Centeno/AndroidStudioProjects/Guia03/Guia03/app/src/main/res/layout/activity_datos.xml" value="0.25" />
+        <entry key="..\:/Users/Rodrigo Centeno/AndroidStudioProjects/Guia03/Guia03/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Rodrigo Centeno/AndroidStudioProjects/Guia03/Guia03/app/src/main/res/layout/activity_mostrar_lista.xml" value="0.25" />
+        <entry key="..\:/Users/Rodrigo Centeno/AndroidStudioProjects/Guia03/Guia03/app/src/main/res/layout/activity_seleccionar_trabajador.xml" value="0.25" />
+        <entry key="..\:/Users/Rodrigo Centeno/AndroidStudioProjects/Guia03/Guia03/app/src/main/res/layout/activity_trabajador_hora.xml" value="0.25" />
+        <entry key="..\:/Users/Rodrigo Centeno/AndroidStudioProjects/Guia03/Guia03/app/src/main/res/layout/activity_trabajador_tiempo_completo.xml" value="0.25" />
+        <entry key="..\:/Users/anton/Downloads/Guia03/app/src/main/res/layout/activity_datos.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/anton/Downloads/Guia03/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/anton/Downloads/Guia03/app/src/main/res/layout/activity_mostrar_lista.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/anton/Downloads/Guia03/app/src/main/res/layout/activity_seleccionar_trabajador.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/anton/Downloads/Guia03/app/src/main/res/layout/activity_trabajador_hora.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/anton/Downloads/Guia03/app/src/main/res/layout/activity_trabajador_tiempo_completo.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.19519927536231885" />
+        <entry key="app/src/main/res/layout/activity_mostrar_lista.xml" value="0.24375" />
+        <entry key="app/src/main/res/layout/activity_seleccionar_trabajador.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_trabajador_hora.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_trabajador_tiempo_completo.xml" value="0.24375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

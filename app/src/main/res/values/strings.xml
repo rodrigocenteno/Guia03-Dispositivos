@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Guia03</string>
+    <string name="msg_select_worker">Seleccione el tipo trabajador</string>
+    <string name="name_activity_select">Seleccionar</string>
+    <string name="id">ID</string>
+</resources>
